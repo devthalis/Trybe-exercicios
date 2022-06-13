@@ -1,0 +1,62 @@
+.lista-ordenada{
+    background-color: red;
+}
+
+.lista-ordenada .PAR{
+    color: green;
+}
+
+.lista-ordenada .IMPAR{
+    text-transform: uppercase;
+}
+
+.header{
+    color: red;
+}
+
+h1.header{
+    font-size: 40px;
+    border: solid 1px black ;
+}
+
+li{
+    font-size: 20px;
+}
+
+.lista-ordenada li{
+    font-weight: bold;
+}
+
+.linguagem{
+    color: blue;
+}
+
+.linguagem.rosa{
+    background-color: pink;
+}
+
+.atualizar li:hover .stack{
+    font-weight: bold;
+    color: orange;
+}
+
+.atualizar li:hover .w3{
+    font-weight: bold;
+    color: green;
+}
+
+.atualizar li:hover .mdn{
+    font-weight: bold;
+    color: black;
+}
+
+.atualizar li:hover .devdocs{
+    font-weight: bold;
+    color: yellow;
+}
+
+.atualizar li:hover .trybe{
+    font-weight: bold;
+    color: greenyellow;
+}
+
