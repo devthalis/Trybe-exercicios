@@ -1,0 +1,107 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    border: 1px green solid;
+    background-color: #191970;
+    color: white;
+    position: relative;
+}
+
+header h1{
+    text-align: center;
+}
+
+.cabecalho li{
+    display: inline-block;
+    margin-right: 25px;
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.cabecalho li a{
+    color: white;
+}
+
+article{
+    background-color: #000080;
+    color:white;
+    padding: 10px;
+    
+}
+
+h2{
+    margin-left: 40%;
+    margin-top: 0;
+    font-size: 30px;
+}
+
+h3{
+    margin-left: 57%;
+    margin-top: 5%;
+}
+
+.section1{
+    display: block;
+    width: 70%;
+}
+
+.foto1{
+    height: 500px;
+    width: 400px;
+    margin-right: 20px;
+    float: left;
+}
+
+
+.section2{
+    display: block;
+    margin-top: 20%;
+    width: 70%;
+}
+
+.foto2{
+    height: 500px;
+    width: 400px;
+    margin-right: 20px;
+    float: left;
+}
+
+.section3{
+    display: block;
+    margin-top: 25%;
+    width: 70%;
+}
+
+.foto3{
+    height: 500px;
+    width: 400px;
+    margin-right: 20px;
+    float: left;
+}
+
+.aside{
+  float:right;
+  color: black;
+  width: 20%;
+  z-index: 1;
+  position:relative;
+  margin-top: 40%;
+  background-color: white;
+}
+
+.fontes{
+    margin-top: 35%;
+}
+
+.fontes2 {
+    color: white;
+}
+
+.footer{
+    margin-top: 10%;
+    text-align: center;
+}
